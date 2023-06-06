@@ -1,0 +1,24 @@
+{
+  "music": [
+    {
+      "id": 1,
+      "name": "New Song",
+      "url": "https://example.com/song.mp3"
+    },
+    {
+      "name": "10-seconds-loop-2-97528.mp3",
+      "url": "blob:http://localhost:3000/50468fda-90ec-4168-aa0b-5991e9be25f4",
+      "id": 2
+    },
+    {
+      "name": "Always_Be_There.mp3",
+      "url": "blob:http://localhost:3000/e7de6724-e5a6-4d1b-91b5-ebf72651f28a",
+      "id": 3
+    },
+    {
+      "name": "Always_Be_There.mp3",
+      "url": "blob:http://localhost:3000/accc07b5-aeb3-4b18-b028-10f838c2a090",
+      "id": 4
+    }
+  ]
+}
